@@ -4,9 +4,6 @@
  -}
 module Assign_2 where
 
-macid :: String
-macid = "thungas"
-
 type Euclid2D = (Double,Double)
 
 {- -----------------------------------------------------------------
