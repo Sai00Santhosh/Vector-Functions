@@ -1,8 +1,5 @@
-{- Assignment 2
- - Name: Sai Santhosh Thunga
- - Date: November 1st, 2020
- -}
-module Assign_2 where
+-- Vector Functions
+
 
 type Euclid2D = (Double,Double)
 
